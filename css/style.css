@@ -1,0 +1,25 @@
+
+body p{
+    font-size:larger;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 15;
+}
+
+body h2{
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+a img{
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
