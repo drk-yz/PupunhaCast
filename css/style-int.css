@@ -16,11 +16,12 @@ body{
 }
 
 .integrante p{
-    display: flex;
+    display: grid;
     font-size: large;
-    text-align: justify;
-    margin-left: auto ;
-    margin-right: auto ;
+    text-align: center;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0%;
 }
 
 .integrante img {
