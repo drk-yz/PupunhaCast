@@ -32,6 +32,11 @@ details p{
     margin-right: 22%;
 }
 
+.botao a{
+    text-decoration: none
+}
+
+
 footer p{
     font-size: larger;
     margin-left: 5px;
