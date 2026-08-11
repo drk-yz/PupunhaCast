@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(251, 242, 187);
+}
+.integrante{
+    margin-right: auto;
+    margin-left: auto;
+    display: flexbox;
+    padding: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    justify-items: center;
+    
+    border-radius: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.integrante p{
+    display: flex;
+    font-size: large;
+    text-align: justify;
+    margin-left: auto ;
+    margin-right: auto ;
+}
+
+.integrante img {
+    border-radius: 15px;
+    display: flex;
+    height: 200;
+    margin: 0 ;
+}
